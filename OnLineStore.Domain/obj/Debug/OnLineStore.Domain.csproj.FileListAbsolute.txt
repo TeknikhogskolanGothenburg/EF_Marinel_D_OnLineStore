@@ -1,0 +1,6 @@
+C:\Skola_JOBB\DataÅtkomst\0_Projekt\OnLineStore\OnLineStore.Domain\bin\Debug\OnLineStore.Domain.dll
+C:\Skola_JOBB\DataÅtkomst\0_Projekt\OnLineStore\OnLineStore.Domain\bin\Debug\OnLineStore.Domain.pdb
+C:\Skola_JOBB\DataÅtkomst\0_Projekt\OnLineStore\OnLineStore.Domain\obj\Debug\OnLineStore.Domain.csprojResolveAssemblyReference.cache
+C:\Skola_JOBB\DataÅtkomst\0_Projekt\OnLineStore\OnLineStore.Domain\obj\Debug\OnLineStore.Domain.csproj.CoreCompileInputs.cache
+C:\Skola_JOBB\DataÅtkomst\0_Projekt\OnLineStore\OnLineStore.Domain\obj\Debug\OnLineStore.Domain.dll
+C:\Skola_JOBB\DataÅtkomst\0_Projekt\OnLineStore\OnLineStore.Domain\obj\Debug\OnLineStore.Domain.pdb
